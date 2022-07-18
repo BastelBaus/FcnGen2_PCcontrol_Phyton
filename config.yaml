@@ -1,0 +1,15 @@
+[favcon1]
+ip = None
+port = COM12
+baudrate = 115200
+
+[other]
+
+[connections]
+last0 = COM12@115200
+last1 = COM3@115200
+last2 = COM1@115200
+last3 = COM1@134
+last4 = COM12@200
+last5 = 
+
